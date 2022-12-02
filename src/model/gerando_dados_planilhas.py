@@ -160,15 +160,6 @@ def lendo_excel():
             p.sleep(0.5)
         p.press('enter')
         p.sleep(1)
-        
-
-    
-        
-        
-    
-    
-
-       
 
        
 def main():
